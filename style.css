@@ -4,7 +4,7 @@ body {
     background-color: #f4f4f4;
 }
 header {
-    background-color: #2e7d32;
+    background-color: #0a0233;
     color: white;
     padding: 15px;
     text-align: center;
@@ -69,7 +69,7 @@ input, textarea {
 }
 
 button {
-    background-color: #2e7d32;
+    background-color: #0a0233;
     color: white;
     border: none;
     padding: 10px;
@@ -81,7 +81,7 @@ button:hover {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #2e7d32;
+    background-color: #0a0233;
     color: white;
     margin-top: 20px;
 }
